@@ -1,0 +1,50 @@
+name: CivCraft
+author: YourCoal
+main: com.avrgaming.civcraft.main.CivCraft
+softdepends: [TitleAPI, HolographicDisplays]
+version: 1.0.3
+#version: phase, update #, sub-update #
+
+commands:
+    ad:
+        aliases: []
+    dbg:
+        aliases: []
+    civ:
+        aliases: [c]
+    vote:
+        aliases: [v]
+    market:
+        aliases: [m]
+    town:
+        aliases: [t]
+    build:
+        aliases: [b]
+    plot:
+        aliases: [p]
+    camp:
+        aliases: [ca]
+    resident:
+        aliases: [res]
+    econ:
+        aliases: [money, bal]
+    pay:
+        aliases: []
+    accept:
+        aliases: [yes]
+    deny:
+        aliases: [no]
+    here:
+        aliases: [h]
+    kill:
+        aliases: [suicide]
+    tc:
+        aliases: []
+    cc:
+        aliases: []
+    report:
+        aliases: []
+    select:
+        aliases: []
+    team:
+        aliases: []
